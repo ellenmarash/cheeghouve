@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shahwaiyae.andrewscala.com/sitemap.xml
